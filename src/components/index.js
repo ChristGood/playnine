@@ -1,0 +1,6 @@
+export {default as Answer} from './Answer'
+export {default as Button} from './Button'
+export {default as DoneFrame} from './DoneFrame'
+export {default as Game} from './Game'
+export {default as Numbers} from './Numbers'
+export {default as Stars} from './Stars'
