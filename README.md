@@ -1,6 +1,6 @@
 # playnine
 
-Pour install les dépendance, faire :
+Pour installer les dépendance, faire :
 npm install
 
 Pour démarrer le jeu :
