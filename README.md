@@ -10,7 +10,7 @@ But de jeu :
 Le but du jeu est de choisir un ou plusieurs nombres, pour que leur somme corresponde au nombre d'étoile affiché.
 
 Comment jouer ?
-- Cliquer sur les nombres pour les sélectionner. Vous pouvez recliquer dessus (en haut à droite) pour les déselectionner.
+- Cliquer sur les nombres pour les sélectionner. Vous pouvez recliquer dessus (dans la partie droite) pour les déselectionner.
 - Une fois votre choix effectué, cliquer sur le bouton égal. Deux scénarios s'imposent :
     - Si la somme des nombres est équivalente au nombre d'étoile, le bouton égal devient vert. Vous pouvez recliquer dessus pour valider, ou sélectionner d'autres nombres.
     - Si c'est pas équivalent, le bouton égal devient rouge. Vous devez sélectionner une autre combinaison de nombre.
